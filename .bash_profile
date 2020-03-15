@@ -31,8 +31,11 @@ alias npi='npm i'
 alias npisd='npm i --save-dev'
 alias npis='npm i --save'
 alias npu='npm update'
+alias npv='npm -v'
+alias unp='npm i -g npm'
 
 # ---------------
 # Node Aliases
 # ---------------
 alias nd='node'
+alias ndv='node -v'
