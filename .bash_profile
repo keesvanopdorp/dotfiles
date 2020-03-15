@@ -21,6 +21,7 @@ alias gcl='git clone'
 # ----------------
 alias cl='clear'
 alias la='ls -a'
+alias lal='la -al' 
 
 # ----------------
 # Npm Aliases
