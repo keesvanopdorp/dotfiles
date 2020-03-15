@@ -14,6 +14,7 @@ alias gpsh='git push'
 alias gss='git status -s'
 alias gs='echo ""; echo "*********************************************"; echo -e "   DO NOT FORGET TO PULL BEFORE COMMITTING"; echo "*********************************************"; echo ""; git status'
 alias grao='git remote add origin'
+alias gcl='git clone'
 
 # ----------------
 #  Custom Aliases
