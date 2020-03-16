@@ -39,3 +39,14 @@ alias unp='npm i -g npm'
 # ---------------
 alias nd='node'
 alias ndv='node -v'
+
+# ---------------
+# Docker Aliases 
+# ---------------
+alias dstart='docker start'
+alias dkill='docker kill'
+alias dps='docer ps'
+alias dpsa='docker ps -a'
+alias dimg='docker images'
+alias dpull='docker pull'
+alias dstop='docker stop'
