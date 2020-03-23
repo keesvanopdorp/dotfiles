@@ -39,6 +39,7 @@ alias unp='npm i -g npm'
 # ---------------
 alias nd='node'
 alias ndv='node -v'
+alias ndm='nodemon'
 
 # ---------------
 # Docker Aliases 
