@@ -46,7 +46,7 @@ alias ndm='nodemon'
 # ---------------
 alias dstart='docker start'
 alias dkill='docker kill'
-alias dps='docer ps'
+alias dps='docker ps'
 alias dpsa='docker ps -a'
 alias dimg='docker images'
 alias dpull='docker pull'
